@@ -68,5 +68,3 @@ Inspirado nas técnicas e aula do canal
 
 Se quiser melhorar o projeto, sinta-se à vontade para abrir um **pull request** ou sugerir novas funções (tipo sons aleatórios, animações ou temas)! 🌈
 
-
-Quer que eu adicione emojis nos títulos dos botões e organize o texto em markdown com formatação e cores suaves (como se fosse o estilo "kawaii" no GitHub)? Posso deixar o README ainda mais estilizado.
